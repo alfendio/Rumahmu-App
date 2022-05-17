@@ -1,2 +1,5 @@
-# Rumahmu-App
-House price prediction using linear regression algorithm and streamlit for web application
+# Rumahmu App
+## You can access Rumahmu App at:
+https://rumahmu.herokuapp.com/
+## Deployment:
+Heroku
